@@ -1,5 +1,6 @@
 # Bitwarden Serverless
 
+[![DepShield Badge](https://depshield.sonatype.org/badges/cognitiaclaeves/bitwarden-serverless/depshield.svg)](https://depshield.github.io)
 [![Build Status](https://travis-ci.org/vvondra/bitwarden-serverless.svg?branch=master)](https://travis-ci.org/vvondra/bitwarden-serverless)
 
 An alternative implementation of the [Bitwarden API](https://github.com/bitwarden/core) based on a AWS Serverless stack. Inspired by [bitwarden-ruby](https://github.com/jcs/bitwarden-ruby).
